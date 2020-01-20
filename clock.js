@@ -1,4 +1,4 @@
-<script>
+
     var div = document.getElementById('DSEGClock');
     var date = document.getElementById('date');
     var day = document.getElementById('din');
@@ -59,4 +59,4 @@
     }
 
     setInterval(time, 1000);
-</script>
+
