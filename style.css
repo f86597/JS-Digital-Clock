@@ -7,20 +7,14 @@
         }
 
         @font-face {
-            font-family: s7;
-            src: url(bootstrap/fonts/7segment.woff)
-        }
+            font-family: "s7";
+    src: url(https://dl.dropbox.com/s/9w04nj4cqqbwr6z/DSEG7Classic-Bold.woff) format('woff');
+}
 
-        @font-face {
-            font-family: s14;
-            src: url(bootstrap/fonts/DSEG14Modern-Italic.woff)
-        }
-
-        @font-face {
-            font-family: s7bi;
-            src: url(bootstrap/fonts/DSEG7Modern-BoldItalic.woff)
-        }
-
+@font-face {
+    font-family: s14;
+    src: url(https://dl.dropbox.com/s/qzty6p6p7nwfhbg/DSEG14Modern-Italic.woff)
+}
         .clock-out {
             background: rgb(0, 0, 0);
             height: 175px;
