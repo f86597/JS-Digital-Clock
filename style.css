@@ -3,7 +3,8 @@
         }
 
         body {
-            background: black
+            background: black;
+            line-height: 2.12857143;
         }
 
         @font-face {
@@ -25,7 +26,7 @@
 
         .clock {
             font-family: s7;
-            font-size: 70px;
+            font-size: 50px;
             font-style: italic;
         }
 
@@ -52,7 +53,7 @@
 
         .date {
             font-family: s7;
-            font-size: 50px;
+            font-size: 30px;
             top: 95px;
             left: -10px;
             position: absolute;
@@ -73,7 +74,7 @@
 
         .day {
             font-family: s14;
-            font-size: 38px;
+            font-size: 30px;
             left: 250px;
             top: 100px;
             position: absolute;
