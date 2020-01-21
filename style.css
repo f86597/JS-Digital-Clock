@@ -31,7 +31,7 @@
         }
 
         .time-bg {
-            color: rgba(50, 255, 255, 0.12);
+            color:rgba(51, 91, 91, 0.15);
             position: absolute;
             left: 140px
         }
@@ -61,7 +61,7 @@
         }
 
         .date-bg {
-            color: rgba(194, 206, 206, 0.12);
+            color: rgba(51, 91, 91, 0.15);
             position: absolute;
             left: 60px
         }
